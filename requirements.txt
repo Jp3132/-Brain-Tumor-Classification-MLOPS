@@ -14,4 +14,4 @@ types-pyYAML
 scipy
 Flask
 Flask-Cors
--e 
+-e .
